@@ -79,7 +79,7 @@ cholera-americas-paho/
 If you use this portal or the mini-papers it generates, please cite:
 
 ```
-Moises JD. Cholera in the Americas: Interactive Data Portal.
+De la Serna Tuya, J.M. Cholera in the Americas: Interactive Data Portal.
 GitHub: https://github.com/juanmoisesd/cholera-americas-paho
 Data source: Pan American Health Organization. Core Indicators Portal.
 https://opendata.paho.org/en/core-indicators. Accessed 2025.
