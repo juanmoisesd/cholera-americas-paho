@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+type: dataset
+title: "Cholera in the Americas — PAHO Data Portal"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+    email: "juanmoises.delaserna@unir.net"
+# doi: pending
+url: https://github.com/juanmoisesd/cholera-americas-paho
+repository-code: "https://github.com/juanmoisesd/cholera-americas-paho"
+license: CC0-1.0
+date-released: "2026-03-20"
+keywords:
+  - "cholera"
+  - "americas"
+  - "paho"
+  - "dashboard"
+  - "open-data"
+  - "epidemiology"
+  - "public-health"
+abstract: "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO."
