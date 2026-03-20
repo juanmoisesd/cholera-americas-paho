@@ -1,0 +1,18 @@
+title: "Cholera in the Americas — PAHO Data Portal"
+description: "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO."
+author: "Juan Moisés de la Serna Tuya"
+url: "https://juanmoisesd.github.io"
+baseurl: "/cholera-americas-paho"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+social:
+  name: Juan Moisés de la Serna Tuya
+  links:
+    - https://orcid.org/0000-0002-8401-8018
+    - https://juanmoisesdelaserna.es
+    - https://github.com/juanmoisesd
+
+show_excerpts: true
