@@ -1,0 +1,40 @@
+{
+  "title": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "description": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "americas",
+    "cholera",
+    "dashboard",
+    "epidemiology",
+    "open-data",
+    "paho",
+    "public-health",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/cholera-americas-paho",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
