@@ -1,5 +1,9 @@
 # Cholera in the Americas — PAHO Data Portal
 
+[![Collection DOI](https://img.shields.io/badge/Collection_DOI-10.5281%2Fzenodo.19145316-blue?logo=zenodo)](https://doi.org/10.5281/zenodo.19145316) [![Author](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green?logo=orcid)](https://orcid.org/0000-0002-8401-8018)
+
+> Part of the **[Open Research Collection by Juan Moisés de la Serna Tuya](https://doi.org/10.5281/zenodo.19145316)** — 1,273+ datasets | DOI: 10.5281/zenodo.19145316
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8401--8018-green)](https://orcid.org/0000-0002-8401-8018)
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Pages](https://img.shields.io/badge/Live-Dashboard-brightgreen)](https://juanmoisesd.github.io/cholera-americas-paho/)
