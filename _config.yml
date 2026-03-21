@@ -1,18 +1,43 @@
-title: "Cholera in the Americas — PAHO Data Portal"
+# Jekyll configuration for GitHub Pages
+title: "cholera-americas-paho"
 description: "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO."
-author: "Juan Moisés de la Serna Tuya"
 url: "https://juanmoisesd.github.io"
 baseurl: "/cholera-americas-paho"
-theme: minima
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
+
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-social:
-  name: Juan Moisés de la Serna Tuya
-  links:
-    - https://orcid.org/0000-0002-8401-8018
-    - https://juanmoisesdelaserna.es
-    - https://github.com/juanmoisesd
 
-show_excerpts: true
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
