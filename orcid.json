@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/cholera-americas-paho",
+      "year": "2026"
+    }
+  ]
+}
