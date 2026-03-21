@@ -1,0 +1,19 @@
+{
+  "title": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "description": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "keywords": "americas, cholera, dashboard, epidemiology, open-data, paho, public-health",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "canonical": "https://juanmoisesd.github.io/cholera-americas-paho/",
+  "og:title": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "og:description": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "og:url": "https://juanmoisesd.github.io/cholera-americas-paho/",
+  "og:type": "dataset",
+  "twitter:card": "summary",
+  "twitter:title": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "twitter:description": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
+  "schema_type": "Dataset",
+  "license": "CC0-1.0",
+  "datePublished": "2026-03-20",
+  "language": "es, en"
+}
