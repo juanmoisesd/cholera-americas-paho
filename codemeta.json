@@ -1,14 +1,18 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Cholera in the Americas \u2014 PAHO Data Portal",
+  "@type": "SoftwareSourceCode",
+  "name": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
   "description": "Interactive data portal: Cholera cases in the Americas. Country profiles, comparisons. Source: PAHO.",
-  "identifier": "",
   "url": "https://github.com/juanmoisesd/cholera-americas-paho",
+  "codeRepository": "https://github.com/juanmoisesd/cholera-americas-paho",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
       "@id": "https://orcid.org/0000-0002-8401-8018",
       "affiliation": {
@@ -18,18 +22,25 @@
       "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "cholera",
     "americas",
-    "paho",
+    "cholera",
     "dashboard",
-    "open-data",
     "epidemiology",
+    "open-data",
+    "paho",
     "public-health"
   ],
-  "datePublished": "2026-03-20",
-  "version": "1.0",
   "programmingLanguage": "Python",
-  "softwareVersion": "1.0"
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
